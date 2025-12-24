@@ -42,8 +42,8 @@ Note: On smaller screens (includes DPI zoomed screens), roblox may force a minim
 ----
 
 # <b>[Elliscecie](https://www.youtube.com/@ElliscecieCreates)'s Fork of Minz</b>
-Features:
-    - Force feedback <b>(Note: Work in progress)</b>
+Features:  
+    - Force feedback <b>(Note: Work in progress)</b>  
     <i> *may require external programs </i>
 
 ----
