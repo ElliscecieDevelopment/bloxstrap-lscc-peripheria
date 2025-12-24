@@ -35,11 +35,16 @@ Features:
     - [Window Movement](https://youtu.be/MgWMiGAx68g?si=1SOBrE3CMPgg8lhC&t=96)  
     - [Changing Window's Title and Chroma color](https://youtu.be/i03Aiic6DbI?si=XzGEkdJkqdEbOu-C&t=112)
 
-# <b>[Elliscecie](https://www.youtube.com/@ElliscecieCreates)'s Fork of Minz</b>
-
 Note: On smaller screens (includes DPI zoomed screens), roblox may force a minimum size for the window, to remove it you can enable fullscreen, which also removes the window border but everytime you click the window it will fullscreen until the game sends a window update (we can't do anything about it afaik)
 
 [BLOXSTRAP SDK](https://github.com/Adrigamer278/bloxstrap/blob/main/BloxstrapSDK.luau)
+
+----
+
+# <b>[Elliscecie](https://www.youtube.com/@ElliscecieCreates)'s Fork of Minz</b>
+Features:
+    - Force feedback <b>(Note: Work in progress)</b>
+    <i> *may require external programs </i>
 
 ----
 
