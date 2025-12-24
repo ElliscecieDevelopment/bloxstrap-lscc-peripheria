@@ -1,5 +1,6 @@
 > [!CAUTION]
 > The only official places to download base Bloxstrap are [the official GitHub repository](https://github.com/bloxstraplabs/bloxstrap) and [bloxstraplabs.com](https://bloxstraplabs.com), the only place to download this fork is this GitHub repository. This fork is not controlled by the Bloxstrap Devs.
+> This was forked from the Bloxstrap Dawndreamer Studios fork, made by Minz (adrigamer278) 
 
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="380">
@@ -33,6 +34,8 @@ Bloxstrap installation path (where bloxstrap's exe file is) is <i>%localappdata%
 Features:  
     - [Window Movement](https://youtu.be/MgWMiGAx68g?si=1SOBrE3CMPgg8lhC&t=96)  
     - [Changing Window's Title and Chroma color](https://youtu.be/i03Aiic6DbI?si=XzGEkdJkqdEbOu-C&t=112)
+
+# <b>[Elliscecie](https://www.youtube.com/@ElliscecieCreates)'s Fork of Minz</b>
 
 Note: On smaller screens (includes DPI zoomed screens), roblox may force a minimum size for the window, to remove it you can enable fullscreen, which also removes the window border but everytime you click the window it will fullscreen until the game sends a window update (we can't do anything about it afaik)
 
